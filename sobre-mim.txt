@@ -2,3 +2,5 @@
     -   Idade: 17 anos
     -   Cidade: Fortaleza
     -   Curso: Informática
+    -   Hobby: Volei
+    -   Comida Favorita: Pizza
