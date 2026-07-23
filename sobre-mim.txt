@@ -1,0 +1,4 @@
+    -   Nome: Janiele
+    -   Idade: 17 anos
+    -   Cidade: Fortaleza
+    -   Curso: Informática
